@@ -1,0 +1,7 @@
+data_a = {'id': ['1', '2', '3'],
+'isim': ['Mert', 'Fethi', 'Makber'],
+'soyismi': ['Cobanov', 'Tekyaygil', 'Blackwater']}
+
+data_b = {'id': ['4', '5', '6']
+'isim': ['Kadir', 'Yasemin', 'Melis']
+'soyisim': ['Gates', 'Currie', 'Lisa']}
